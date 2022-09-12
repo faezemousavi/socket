@@ -3,9 +3,7 @@ import java.net.DatagramPacket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
 
-/**
- * Created by Mehdi_2 on 03/03/2019.
- */
+
 //Multicast Sender
 public class MulticastServer {
     public static void main(String[] args) {
